@@ -1,16 +1,21 @@
-# meals
+<h1>Refeições</h1>
 
-A new Flutter project.
+<h2>Descrição</h2>
 
-## Getting Started
+<p>
+App básico de Refeições, para gerenciamento básico de estado, tendo como funcionalidades: filtragem de pratos favoritos e filtragem de refeições com base em restrições alimentares preestabelecidas.
+</p>
 
-This project is a starting point for a Flutter application.
+<h2>Tecnologias Utilizadas</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<ul>
+<li>Dart</li>
+<li>Flutter</li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2>Imagens</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
